@@ -18,5 +18,5 @@
 
 <hr>
 <p align="left">
-<a href="[www.linkedin.com/in/gelvis-diego/](https://www.linkedin.com/in/gelvis-diego/)" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="diego" " /></a>
+<a href="https://www.linkedin.com/in/gelvis-diego/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="diego" " /></a>
 </p>

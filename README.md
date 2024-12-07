@@ -8,12 +8,16 @@
 <hr>
 
 <pre>
+<img   
+align="right"
+width="190px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0bDRhdXBzb2tvZmU4ZWU3ZXp3M2g2aGJ1OXVtZnpzZGR4Zmk1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" />
 💻 Actualmente en el estudio de programación Backend y Frontend  
 🛠️ Enfocado en el aprendizaje y crecimiento personal 
 🌱 Aprendiendo sobre mejores prácticas y diseños eficientes para sistemas escalables  
 🌟 Lenguajes principales: JavaScript y Python 😁  
 🚩 Interesado en el desarrollo Web y en comenzar mi carrera profesional en la tecnología  
 😃 ¡Estoy emocionado de colaborar en proyectos interesantes y de seguir aprendiendo!
+
 </pre>
 
 <hr>
